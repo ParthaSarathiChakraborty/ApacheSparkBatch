@@ -1,2 +1,2 @@
 # ApacheSparkLinkedin
-Apache Spark project on stock aggregation - Business scenario
+Apache Spark projects on batch process and real time process - Business scenario
