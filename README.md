@@ -1,2 +1,2 @@
 # ApacheSparkLinkedin
-Apache Spark projects on batch process and real time process - Business scenario
+Apache Spark projects related to batch processing and real time processing - Business scenario
